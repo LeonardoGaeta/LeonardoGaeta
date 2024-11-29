@@ -2,7 +2,7 @@
 
 ### 👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
 
-Sou *Leonardo Gaeta, estudante de **Desenvolvimento de Sistemas* na *ETEC*, apaixonado por tecnologia e em busca de oportunidades para crescer profissionalmente na área de desenvolvimento.  
+Sou *Leonardo Gaeta*, estudante de **Desenvolvimento de Sistemas** na *ETEC*, apaixonado por tecnologia e em busca de oportunidades para crescer profissionalmente na área de desenvolvimento.  
 
 Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras tecnologias que me ajudem a desenvolver soluções práticas e eficientes. Meu objetivo é conseguir um estágio para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
 
@@ -48,9 +48,9 @@ Estou buscando um *estágio na área de desenvolvimento de sistemas*, onde possa
 ---
 
 ## 📫 Entre em Contato
-- *E-mail:* leonardo.gaeta@example.com (substitua pelo real)  
-- *LinkedIn:* [linkedin.com/in/leonardogaeta](#) (substitua pelo real)  
-- *GitHub:* [github.com/leonardogaeta](#) (link do perfil do Leonardo)
+- *E-mail:* leonardogaetaalves@gmail.com
+- *LinkedIn:* [linkedin.com/in/leonardo-gaeta-29627233b](#)
+- *GitHub:* [github.com/leonardogaeta](#)
 
 ---
 
