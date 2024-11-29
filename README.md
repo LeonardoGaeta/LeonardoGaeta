@@ -1,16 +1,59 @@
-## Hi there 👋
+# Leonardo Gaeta 👨‍💻
 
-<!--
-**LeonardoGaeta/LeonardoGaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+Sou *Leonardo Gaeta, estudante de **Desenvolvimento de Sistemas* na *ETEC*, apaixonado por tecnologia e em busca de oportunidades para crescer profissionalmente na área de desenvolvimento.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras tecnologias que me ajudem a desenvolver soluções práticas e eficientes. Meu objetivo é conseguir um estágio para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
+
+---
+
+## 🚀 Habilidades e Tecnologias
+
+### Linguagens e Ferramentas:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+### Aprendendo:
+- PHP para web
+- Fundamentos de backend
+- Boas práticas de programação
+
+---
+
+## 📚 Projetos
+Aqui estão alguns projetos que desenvolvi como parte dos meus estudos:  
+- *[Meu Primeiro CRUD em PHP](#)*: Sistema simples de cadastro, leitura, atualização e exclusão de dados.  
+- *[Landing Page Responsiva](#)*: Página web desenvolvida com HTML, CSS e práticas de responsividade.  
+- *[Projeto Estudo PHP](#)*: Repositório com exercícios e pequenos scripts que utilizei para aprender PHP.  
+
+(Links são exemplos; substitua pelos links reais para projetos no perfil de Leonardo.)
+
+---
+
+## 🎯 Objetivo
+Estou buscando um *estágio na área de desenvolvimento de sistemas*, onde possa:
+- Aplicar e melhorar minhas habilidades técnicas.
+- Trabalhar com uma equipe colaborativa e focada em tecnologia.
+- Adquirir experiência prática em desenvolvimento de software.
+
+---
+
+## 📫 Entre em Contato
+- *E-mail:* leonardo.gaeta@example.com (substitua pelo real)  
+- *LinkedIn:* [linkedin.com/in/leonardogaeta](#) (substitua pelo real)  
+- *GitHub:* [github.com/leonardogaeta](#) (link do perfil do Leonardo)
+
+---
+
+💡 "A tecnologia é uma ferramenta poderosa para transformar ideias em soluções."  
+
+Obrigado por visitar meu perfil! 😊
