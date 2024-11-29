@@ -49,8 +49,8 @@ Estou buscando um *estágio na área de desenvolvimento de sistemas*, onde possa
 
 ## 📫 Entre em Contato
 - *E-mail:* leonardogaetaalves@gmail.com
-- *LinkedIn:* [linkedin.com/in/leonardo-gaeta-29627233b](#)
-- *GitHub:* [github.com/leonardogaeta](#)
+- *LinkedIn:* [linkedin.com/in/leonardo-gaeta-29627233b](linkedin.com/in/leonardo-gaeta-29627233b)
+- *GitHub:* [github.com/leonardogaeta](https://github.com/LeonardoGaeta)
 
 ---
 
