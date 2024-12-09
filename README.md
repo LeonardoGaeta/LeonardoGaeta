@@ -32,8 +32,6 @@ Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras te
 ## 📚 Projetos
 Aqui estão alguns projetos que desenvolvi como parte dos meus estudos:  
 - *[Meu Primeiro CRUD em PHP](https://github.com/LeonardoGaeta/Sistema-Gerenciador-de-Estoque)*: Sistema simples de cadastro, leitura, atualização e exclusão de dados.  
-- *[Landing Page Responsiva](#)*: Página web desenvolvida com HTML, CSS e práticas de responsividade.  
-- *[Projeto Estudo PHP](#)*: Repositório com exercícios e pequenos scripts que utilizei para aprender PHP.  
 
 (Links são exemplos; substitua pelos links reais para projetos no perfil de Leonardo.)
 
