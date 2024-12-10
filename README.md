@@ -32,15 +32,14 @@ Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras te
 ## 📚 Projetos
 Aqui estão alguns projetos que desenvolvi como parte dos meus estudos:  
 - *[Meu Primeiro CRUD em PHP](https://github.com/LeonardoGaeta/Sistema-Gerenciador-de-Estoque)*: Sistema simples de cadastro, leitura, atualização e exclusão de dados.  
-
-(Links são exemplos; substitua pelos links reais para projetos no perfil de Leonardo.)
+- *[Projeto Estudo PHP](https://github.com/LeonardoGaeta/Projeto-Estudo-PHP)*: Repositório com exercícios e pequenos scripts que utilizei para aprender PHP.
 
 ---
 
 ## 🎯 Objetivo
 Estou buscando um *estágio na área de desenvolvimento de sistemas*, onde possa:
 - Aplicar e melhorar minhas habilidades técnicas.
-- Trabalhar com uma equipe colaborativa e focada em tecnologia.
+- Trabalhar com uma equipe colaborativa e focada em tecnologia.re
 - Adquirir experiência prática em desenvolvimento de software.
 
 ---
