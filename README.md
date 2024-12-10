@@ -33,6 +33,7 @@ Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras te
 Aqui estão alguns projetos que desenvolvi como parte dos meus estudos:  
 - *[Meu Primeiro CRUD em PHP](https://github.com/LeonardoGaeta/Sistema-Gerenciador-de-Estoque)*: Sistema simples de cadastro, leitura, atualização e exclusão de dados.  
 - *[Projeto Estudo PHP](https://github.com/LeonardoGaeta/Projeto-Estudo-PHP)*: Repositório com exercícios e pequenos scripts que utilizei para aprender PHP.
+- *[Boxing-Game](https://github.com/LeonardoGaeta/Boxing-Game)*: Jogo de box simples produzido em equipe.
 
 ---
 
