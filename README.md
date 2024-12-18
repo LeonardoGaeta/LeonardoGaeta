@@ -20,6 +20,10 @@ Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/373617/gamemaker.svg" alt="Game Maker" width="40" height="40" />
+          
+  
 </p>
 
 ### Aprendendo:
