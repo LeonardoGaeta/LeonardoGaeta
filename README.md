@@ -2,7 +2,7 @@
 
 ### 👋 Olá! Seja bem-vindo ao meu perfil no GitHub!
 
-Sou *Leonardo Gaeta*, estudante de **Desenvolvimento de Sistemas** na *ETEC*, apaixonado por tecnologia e em busca de oportunidades para crescer profissionalmente na área de desenvolvimento.  
+Sou *Leonardo Gaeta*, estudante de **Análise e Desenvolvimento de Sistemas** na *FATEC*, apaixonado por tecnologia e em busca de oportunidades para crescer profissionalmente na área de desenvolvimento.  
 
 Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras tecnologias que me ajudem a desenvolver soluções práticas e eficientes. Meu objetivo é conseguir um estágio para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
 
@@ -37,7 +37,6 @@ Atualmente, estou aprimorando minhas habilidades em *PHP* e explorando outras te
 Aqui estão alguns projetos que desenvolvi como parte dos meus estudos:  
 - *[Meu Primeiro CRUD em PHP](https://github.com/LeonardoGaeta/Sistema-Gerenciador-de-Estoque)*: Sistema simples de cadastro, leitura, atualização e exclusão de dados.  
 - *[Projeto Estudo PHP](https://github.com/LeonardoGaeta/Projeto-Estudo-PHP)*: Repositório com exercícios e pequenos scripts que utilizei para aprender PHP.
-- *[Boxing-Game](https://github.com/LeonardoGaeta/Boxing-Game)*: Jogo de box simples produzido em equipe.
 
 ---
 
