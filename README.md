@@ -2,12 +2,13 @@
 
 ### Back-End Developer | Systems Development Student at FATEC
 
-Passionate about technology and back-end development.  
-Currently studying Systems Analysis and Development at FATEC and seeking opportunities to grow professionally as a developer.
+Passionate about technology and focused on back-end development.
+
+Currently studying Systems Analysis and Development at FATEC, with hands-on experience building APIs using modern tools like NestJS, Prisma, and PostgreSQL.
 
 ---
 
-## 🚀 Habilidades e Tecnologias
+## 🚀 Skills & Technologies
 
 ### Core Stack
 <p align="center">
@@ -31,7 +32,7 @@ Currently studying Systems Analysis and Development at FATEC and seeking opportu
 
 ### 📚 Technologies I Want to Learn
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,nextjs,tailwind,mongodb,firebase,cpp,kotlin,dotnet,blender,ruby&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nestjs,postgres,mongodb,redis,docker,nextjs,tailwind,firebase&perline=5" />
 </p>
 
 ---
